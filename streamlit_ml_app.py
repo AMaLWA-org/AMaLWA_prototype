@@ -586,4 +586,10 @@ with eda2:
         st.pyplot(fig_corr)
 
 st.markdown("---")
-st.write("Made with ❤️ — AMaLWA Pro. Identifier-safe and ready for production tweaks. Add GridSearch, deploy to Streamlit Cloud, or ask me for a Dockerfile.")
+st.markdown("""
+### Made with ❤️ — AMaLWA Pro  
+By:<br>
+**Muhammad Hammad Shah**<br>
+**Muhammad Usman Khan**<br>
+**Sharjeel Majeed**
+""", unsafe_allow_html=True)
